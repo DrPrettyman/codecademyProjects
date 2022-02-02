@@ -1,0 +1,7 @@
+{
+    "pythonIndent.keepHangingBracketOnLine": true,
+    "pythonIndent.useTabOnHangingIndent": true,
+    "pythonIndent.trimLinesWithOnlyWhitespace": true,
+    "keyboard.touchbar.enabled": false,
+    "terminal.integrated.lineHeight": 1.2
+}
